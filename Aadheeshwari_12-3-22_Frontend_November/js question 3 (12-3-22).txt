@@ -1,0 +1,4 @@
+3) Write a history of javascript?
+
+    In September 1995, a Netscape programmer named Brandan Eich developed a new scripting language in just 10 days. 
+It was originally named Mocha, but quickly became known as LiveScript and, later, JavaScript.       

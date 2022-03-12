@@ -1,0 +1,5 @@
+1 . What is JavaScript?
+
+
+        JavaScript is always synchronous , single-threaded and light weight language , javascript is widely used for 
+client-side validation.and it's use to translate our languase to javacript code language for the web browser

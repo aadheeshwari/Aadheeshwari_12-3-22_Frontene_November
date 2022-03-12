@@ -1,0 +1,9 @@
+4) What are Primitive data type?
+
+    +number
+    +string
+    +boolean
+    +symbol
+    +null
+    +undefine
+    +bigint
